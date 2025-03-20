@@ -207,7 +207,7 @@ Coding:
 
 <!-- Header -->
 <header>
-    <img  src="dhanush.jpeg" width="120" height="120">
+    <img  src="Aswinkumar.jpeg" width="120" height="120">
     <h1>Aswinkumar S</h1>
     <h2>Student at Patrician College</h2>
     <nav>
@@ -267,7 +267,7 @@ Coding:
 <section  id="contact">
     <div class="container">
         <h3 style="color: #051305;">Contact Me</h3>
-        <p style='color: #051305;'>Email: <a href="mailto:dhanush@example.com">dhanush@example.com</a></p>
+        <p style='color: #051305;'>Email: <a href="mailto:aswinsaohss2023.com@gmail.com">aswinsaohss2023.com@gmail.com</a></p>
         <p style='color: #051305;'>GitHub: <a href="https://github.com/your-github" target="_blank">github.com/your-github</a></p>
         <p style='color: #051305;'>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></p>
         
